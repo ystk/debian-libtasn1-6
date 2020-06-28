@@ -1,3 +1,11 @@
+libtasn1-6 (4.2-3+deb8u4) jessie-security; urgency=high
+
+  * Non-maintainer upload by the LTS Team. 
+  * CVE-2017-10790
+    _asn1_check_identifier: safer access to values read
+
+ -- Thorsten Alteholz <debian@alteholz.de>  Sun, 28 Jun 2020 11:01:02 +0200
+
 libtasn1-6 (4.2-3+deb8u3) jessie-security; urgency=high
 
   * Non-maintainer upload by the Wheezy LTS Team. 
