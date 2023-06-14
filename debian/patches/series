@@ -5,3 +5,5 @@ _asn1_extract_der_octet-properly-account-the-bytes-r.patch
 20_CVE-2017-6891.patch
 
 CVE-2017-10790-_asn1_check_identifier-safer-access-to-values-read.patch
+
+CVE-2021-46848.patch

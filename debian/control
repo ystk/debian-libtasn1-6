@@ -2,8 +2,8 @@ Source: libtasn1-6
 Section: libs
 Maintainer: Debian GnuTLS Maintainers <pkg-gnutls-maint@lists.alioth.debian.org>
 Uploaders: Andreas Metzler <ametzler@debian.org>, Eric Dorland <eric@debian.org>, James Westby <jw+debian@jameswestby.net>, Simon Josefsson <simon@josefsson.org>
-Build-Depends: debhelper (>= 9), bison,  autotools-dev
-Build-Depends-Indep: gtk-doc-tools, texinfo, texlive-latex-base
+Build-Depends: debhelper (>= 9), bison,  autotools-dev, texinfo
+Build-Depends-Indep: gtk-doc-tools, texlive-latex-base
 Standards-Version: 3.9.5
 Priority: standard
 Vcs-Git: git://anonscm.debian.org/pkg-gnutls/libtasn1.git
