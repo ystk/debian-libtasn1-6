@@ -1,3 +1,11 @@
+libtasn1-6 (4.2-3+deb8u6) jessie-security; urgency=high
+
+  * Non-maintainer upload by the ELTS Team.
+  * Fix CVE-2024-12133: Potential DoS while parsing a certificate containing
+    numerous SEQUENCE OF or SET OF elements. (Closes: #1095406)
+
+ -- Guilhem Moulin <guilhem@debian.org>  Thu, 27 Feb 2025 16:25:53 +0100
+
 libtasn1-6 (4.2-3+deb8u5) jessie-security; urgency=high
 
   * Non-maintainer upload by the ELTS Team.
